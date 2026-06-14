@@ -6,15 +6,16 @@ En este repositorio me centraré en resolver ejercicios básicos, pero imprescin
 
 ##  Estructura del repositorio :books:
 
-Los ejercicios están guardados en archivos individuales dentro de la carpeta principal. Cada archivo contiene en su interior el enunciado del problema comentado y la solución en código.
+Los ejercicios están guardados en archivos individuales dentro de la carpetas organizadas. Cada archivo contiene en su interior el enunciado del problema comentado y la solución en código.
 
 <br>
 
 ##  Temas que desarrollaré :rocket:
 
--   Condicionales
+-   Estructuras de control
 
--   Bucles
+    -   Condicionales
+    -   Bucles
 
 -   Funciones
 
@@ -22,6 +23,6 @@ Los ejercicios están guardados en archivos individuales dentro de la carpeta pr
     -   Listas
     -   Tuplas
     -   Diccionarios
-    
+
 -   Programación orientada a objetos
 
