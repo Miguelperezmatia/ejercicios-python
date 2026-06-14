@@ -8,6 +8,8 @@ En este repositorio me centraré en resolver ejercicios básicos, pero imprescin
 
 Los ejercicios están guardados en archivos individuales dentro de la carpetas organizadas. Cada archivo contiene en su interior el enunciado del problema comentado y la solución en código.
 
+Algunos ejercicios tendrán una pequeña parte teórica explicada
+
 <br>
 
 ##  Temas que desarrollaré :rocket:
