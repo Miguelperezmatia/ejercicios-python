@@ -14,6 +14,13 @@ Algunos ejercicios tendrán una pequeña parte teórica explicada
 
 ##  Temas que desarrollaré :rocket:
 
+-   Variables
+
+-   Tipos de datos
+
+    -   Mutables
+    -   Inmutables
+
 -   Estructuras de control
 
     -   Condicionales
