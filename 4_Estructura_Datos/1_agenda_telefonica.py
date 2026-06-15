@@ -56,7 +56,7 @@ def eliminacion(agenda):
     print(agenda)
 
 
-
+'''
 def realizar_accion(operacion):
     if operacion == 1:
         busqueda(agenda)
@@ -68,7 +68,8 @@ def realizar_accion(operacion):
         eliminacion(agenda)
     else:
         salir()
+'''
 
 menu()
 operacion = introducir_operacion()
-realizar_accion(operacion)
+# realizar_accion(operacion)
