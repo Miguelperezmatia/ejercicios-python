@@ -33,5 +33,7 @@ Algunos ejercicios tendrán una pequeña parte teórica explicada
     -   Tuplas
     -   Diccionarios
 
+-   Recursividad
+
 -   Programación orientada a objetos
 
