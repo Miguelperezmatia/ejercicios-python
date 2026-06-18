@@ -35,5 +35,7 @@ Algunos ejercicios tendrán una pequeña parte teórica explicada
 
 -   Recursividad
 
+-   Excepciones
+
 -   Programación orientada a objetos
 
