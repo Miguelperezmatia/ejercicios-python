@@ -21,6 +21,8 @@ Algunos ejercicios tendrán una pequeña parte teórica explicada
     -   Mutables
     -   Inmutables
 
+-   Cadenas
+
 -   Estructuras de control
 
     -   Condicionales
