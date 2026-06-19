@@ -12,7 +12,7 @@
     También se debe proponer una operación de finalización del programa.
 '''
 
-agenda = {"Nacho":"635893572", "Miguel":"644400759"}
+agenda = {"Nacho":"635893572", "Miguel":"849305839"}
 
 print(agenda.values())
 
