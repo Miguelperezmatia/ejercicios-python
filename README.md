@@ -41,3 +41,5 @@ Algunos ejercicios tendrán una pequeña parte teórica explicada
 
 -   Programación orientada a objetos
 
+-   Concurrencia
+
